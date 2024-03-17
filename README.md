@@ -5,6 +5,7 @@ This project is a simple website designed for booking vacations on beaches. It s
    - Components
    - Technologies Used
    - Scrrenshots
+   - Link
    - Contributing
 
 Explore the different sections of the website including the hero section, activities, booking form, gallery, contact form, and footer.
@@ -41,5 +42,13 @@ This project is structured into several components:
 ![Screenshot 2024-03-17 at 15-59-30 WEEKAWAY](https://github.com/Mahdii-Kariimiian/Beach-Vacation-Booking-Website/assets/134393975/1ccdde9e-8b36-42c9-b986-33c295f30a1b)
 
 
+## Link 
+Netlify: 
+
+## Author
+
+Mahdi Karimian
+
+    linkedin (www.linkedin.com/in/mahdi-karimian-116643273
 
 

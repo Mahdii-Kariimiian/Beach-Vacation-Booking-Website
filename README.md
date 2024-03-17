@@ -43,7 +43,7 @@ This project is structured into several components:
 
 
 ## Link 
-Netlify: 
+Netlify: https://weekawaytailwind.netlify.app/
 
 ## Author
 
